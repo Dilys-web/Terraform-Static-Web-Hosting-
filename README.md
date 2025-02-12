@@ -149,8 +149,6 @@ If you'd like to contribute to this project, follow these steps:
 - [Terraform Installation Guide](https://developer.hashicorp.com/terraform/downloads)
 - [AWS CLI Installation Guide](https://docs.aws.amazon.com/cli/latest/userguide/getting-started-install.html)
 
----
-
 ## License
 
 This project is licensed under the [MIT License](LICENSE). Feel free to use, modify, and distribute it as needed.
