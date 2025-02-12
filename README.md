@@ -157,5 +157,3 @@ This project is licensed under the [MIT License](LICENSE). Feel free to use, mod
 ```
 
 ---
-
-You can now copy and paste this content directly into your `README.md` file. Let me know if you need any further adjustments! 😊
